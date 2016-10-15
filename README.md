@@ -17,3 +17,7 @@ https://engineering.linkedin.com/distributed-systems/log-what-every-software-eng
 Designing Search Engine:
 
 http://www.ardendertat.com/2012/01/11/implementing-search-engines/
+
+Twitter's Distributed Database - **Manhattan**
+
+https://blog.twitter.com/2014/manhattan-our-real-time-multi-tenant-distributed-database-for-twitter-scale

@@ -14,6 +14,9 @@ Some Good Articles:
 
 https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
 
+Inprocess(Java) vs External Cache:
+http://www2.sys-con.com/itsg/virtualcd/java/archives/0804/thomas2/index.html
+
 Designing Search Engine:
 
 http://www.ardendertat.com/2012/01/11/implementing-search-engines/
